@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Spatial Mixture-of-Experts"
+message: "If you use SMoEs, please cite as"
+authors:
+  - family-names: Dryden
+    given-names: Nikoli
+  - family-names: Hoefler
+    given-names: Torsten
+preferred-citation:
+  title: "Spatial Mixture-of-Experts"
+  year: "2022"
+  type: conference-paper
+  collection-title: "Advances in Neural Information Processing Systems (NeurIPS)"
+  authors:
+    - family-names: Dryden
+      given-names: Nikoli
+    - family-names: Hoefler
+      given-names: Torsten
